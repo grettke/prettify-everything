@@ -35,6 +35,6 @@ Copy and paste three lines then answer them.
 - Configured both AUCTeX *and* Org-Mode to use XETeX
 
 [X] Have you read and do you understand the GPLv3 or later?
-[X] Have you read and do you understand this Copyright Assignment?
+[X] Have you read and do you understand this section on Copyright Assignment?
 [X] In the future are you willing to assign your contributed code to the FSF?
 ```
