@@ -15,7 +15,9 @@ Write a single line: Abbreviation followed by the sumnation of commit.
 - Use Org-Mode formatted text
 - If you are closing an issue the refer to it using a present tense keyword specificilly one of <Closes, Fixes, Resolves> followed by a space followed by a hashtag follwed immediately by the issue number.
 
-Write multipe lines. 
+Write multipe lines.
+
+If the change is simple then you can omit this.
 ## The Third Section: Copyright Assignment
 - This project is released under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 - All of your contributions are made here under GPL3 or later.
@@ -25,7 +27,9 @@ Write multipe lines.
   - [ ] Have you read and understand the section on Copyright Assignment?
   - [ ] In the future are you willing to assign your contributed code to the FSF?
 
-Copy and paste three lines then answer them.
+Copy and paste three lines then answer them. 
+
+If we know you and you already answered then you can omit this.
 ## Examples
 ```shell
 (nhncmnt) Configures AUCTeX and `ox-latex'.
