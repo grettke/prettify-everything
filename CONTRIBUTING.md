@@ -8,7 +8,7 @@ There are only three kinds of commits: enhancements, refinements, and correction
 - **R**efinement (rfnmnt): "the improvement or clarification of something by the making of small
 - **C**orrection (crrctn): "a change that rectifies an error or inaccuracy.
 
-Write a single line: Abbreviation followed by the sumnation of commit.
+Write a single line: Abbreviation followed by the summary of the commit.
 ## The Second Section: Details
 - Explain why and where change was made along with context compared to pre-change
 - Specify: Changed files, functions, and functionality
