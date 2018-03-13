@@ -7,6 +7,8 @@ Typically issues fall into one of three categories:
 
 Please click the issue type listed here to create an issue with everything you need pre-populated.
 
+# Pull Requests
+Stick with the Issue Request and Commit Specification and use them in the pull request.
 # Commit Specification
 ## Every Line: Formatting
 - End with a period.
