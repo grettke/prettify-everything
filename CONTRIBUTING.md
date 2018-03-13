@@ -1,3 +1,12 @@
+# Issue Requests
+Typically issues fall into one of three categories:
+
+- [Enhancement](https://github.com/grettke/prettify-everything/issues/new?title=New+Enhancement+Request:+<for?>&labels=Enhancement&template=enhancement_template.md): "an increase or improvement in quality, value, or extent.
+- [Refinement](https://github.com/grettke/prettify-everything/issues/new?title=New+Refinement+Request:+<of?>&labels=Refinement&template=refinement_template.md): "the improvement or clarification of something by the making of small
+- [Correction](https://github.com/grettke/prettify-everything/issues/new?title=New+Correction+Request:+<where?>&labels=Correction&template=correction_template.md): "a change that rectifies an error or inaccuracy.
+
+Please click the issue type listed here to create an issue with everything you need pre-populated.
+
 # Commit Specification
 ## Every Line: Formatting
 - End with a period.
@@ -27,7 +36,7 @@ If the change is simple then you can omit this.
   - [ ] Have you read and understand the section on Copyright Assignment?
   - [ ] In the future are you willing to assign your contributed code to the FSF?
 
-Copy and paste three lines then answer them. 
+Copy and paste three lines then answer them.
 
 If we know you and you already answered then you can omit this.
 ## Examples
