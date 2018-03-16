@@ -26,7 +26,13 @@
 
 ;;; Code:
 
-
+(defun prettify-everything-get-prettify-symbols-alist (mode)
+  "Get `prettify-symbols-alist' for MODE (a symbol)."
+  (let ((ls (with-temp-buffer
+              (call-interactively mode)
+              prettify-symbols-alist)))
+    ls))
 
 (provide 'prettify-everything)
 ;;; prettify-everything.el ends here
+
